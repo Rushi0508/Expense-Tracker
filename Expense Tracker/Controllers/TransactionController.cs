@@ -10,7 +10,8 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace Expense_Tracker.Controllers
 {
-   
+
+    [Authorize]
     public class TransactionController : Controller
     {
         private readonly ApplicationDbContext _context;
