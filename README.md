@@ -9,7 +9,7 @@ The purpose of the Expense Tracker project is to provide a user-friendly and eff
 ## Features
 
 - **User Authentication**: Secure user registration and login with email confirmation.
-- **Access Control**: Access to various features is restricted to logged-in users.
+- **Access Control**: Access to various features is restricted to only logged-in users.
 - **Dashboard**: A central dashboard displays your total income, total expenses, and net balance.
 - **Graphical Insights**: Visualize your expenses by category and track your income and expenses over the last 7 days with interactive graphs.
 - **Category Management**: Create and manage your income and expense categories.
